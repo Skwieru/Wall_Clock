@@ -3,8 +3,6 @@ const min = document.querySelector(".minutes");
 const hour = document.querySelector(".hours");
 const clock = document.querySelector(".clock .hours");
 
-// sec.style.transform = 'rotate(90deg)';
-
 let secRotation = 0;
 let minRotation = 0;
 let hourRotation = 0;
